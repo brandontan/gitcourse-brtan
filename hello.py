@@ -3,4 +3,4 @@ def world1():
 
 
 def world2():
-	print("Hi there")
+	print("Hey there")
